@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1666709011 source:d:\desktop\c++\project-bank-system\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Admin.h"
+	"Client.h"
+	"Employee.h"
+	"Person.h"
+	"Validation.h"
+	"FileManager.h"
+	"FilesHelper.h"
+	"Screens.h"
+
+1667100577 d:\desktop\c++\project-bank-system\include\admin.h
+	<iostream>
+	<string>
+	<cstring>
+	<iterator>
+	"Employee.h"
+
+1667101661 d:\desktop\c++\project-bank-system\include\client.h
+	<iostream>
+	<string>
+	<cstring>
+	"Person.h"
+
+1667100577 d:\desktop\c++\project-bank-system\include\employee.h
+	<iostream>
+	<string>
+	<cstring>
+	<iterator>
+	"Person.h"
+	"Client.h"
+
+1666647190 d:\desktop\c++\project-bank-system\include\person.h
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	<iterator>
+	"Validation.h"
+
+1667060801 d:\desktop\c++\project-bank-system\include\validation.h
+	<iostream>
+	<string>
+	<cstring>
+
+1666711195 d:\desktop\c++\project-bank-system\include\filemanager.h
+	<string>
+	"DataSourceInterface.h"
+	"FilesHelper.h"
+
+1666317960 d:\desktop\c++\project-bank-system\include\datasourceinterface.h
+	<string>
+
+1666705239 d:\desktop\c++\project-bank-system\include\fileshelper.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Parser.h"
+	"Admin.h"
+	"Client.h"
+	"Employee.h"
+
+1666651966 d:\desktop\c++\project-bank-system\include\parser.h
+	<string>
+	<vector>
+	<sstream>
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+
+1667101379 d:\desktop\c++\project-bank-system\include\screens.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"ClientManager.h"
+	"EmployeeManager.h"
+	"AdminManager.h"
+
+1667100353 d:\desktop\c++\project-bank-system\include\clientmanager.h
+	"Client.h"
+	"Employee.h"
+	"FileManager.h"
+	"FileManager.h"
+
+1667099969 d:\desktop\c++\project-bank-system\include\employeemanager.h
+	"ClientManager.h"
+	"Admin.h"
+
+1667100015 d:\desktop\c++\project-bank-system\include\adminmanager.h
+	"ClientManager.h"
+	"EmployeeManager.h"
+
+1667151246 source:d:\desktop\c++\bank-system\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<vector>
+	"Admin.h"
+	"Client.h"
+	"Employee.h"
+	"Person.h"
+	"Validation.h"
+	"FileManager.h"
+	"FilesHelper.h"
+	"Screens.h"
+
+1667151952 d:\desktop\c++\bank-system\include\admin.h
+	<iostream>
+	<string>
+	<cstring>
+	<iterator>
+	"Employee.h"
+
+1667102096 d:\desktop\c++\bank-system\include\employee.h
+	<iostream>
+	<string>
+	<cstring>
+	<iterator>
+	"Person.h"
+	"Client.h"
+
+1667152202 d:\desktop\c++\bank-system\include\person.h
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	<iterator>
+	"Validation.h"
+
+1667152201 d:\desktop\c++\bank-system\include\validation.h
+	<iostream>
+	<string>
+	<cstring>
+
+1667102095 d:\desktop\c++\bank-system\include\client.h
+	<iostream>
+	<string>
+	<cstring>
+	"Person.h"
+
+1667152023 d:\desktop\c++\bank-system\include\filemanager.h
+	<string>
+	"DataSourceInterface.h"
+	"FilesHelper.h"
+
+1666317960 d:\desktop\c++\bank-system\include\datasourceinterface.h
+	<string>
+
+1667102094 d:\desktop\c++\bank-system\include\fileshelper.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Parser.h"
+	"Admin.h"
+	"Client.h"
+	"Employee.h"
+
+1667102093 d:\desktop\c++\bank-system\include\parser.h
+	<string>
+	<vector>
+	<sstream>
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+
+1667152110 d:\desktop\c++\bank-system\include\screens.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"ClientManager.h"
+	"EmployeeManager.h"
+	"AdminManager.h"
+
+1667151731 d:\desktop\c++\bank-system\include\clientmanager.h
+	"Client.h"
+	"Employee.h"
+	"FileManager.h"
+	"FileManager.h"
+
+1667151617 d:\desktop\c++\bank-system\include\employeemanager.h
+	"ClientManager.h"
+	"Admin.h"
+
+1667151617 d:\desktop\c++\bank-system\include\adminmanager.h
+	"ClientManager.h"
+	"EmployeeManager.h"
+
